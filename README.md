@@ -70,6 +70,9 @@ To use the NK Codes💛 Drag & Drop web page, follow these steps:
 
 - Styling with a blue background for list items and a white background for the containers.
 
+## Deployment Status 
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/69b0d71b-e2a7-42d6-ae30-52599b6e1655/deploy-status)](https://app.netlify.com/sites/kanasu-drag-and-drop/deploys)
 ## Contributing
 
 Contributions are always welcome!
